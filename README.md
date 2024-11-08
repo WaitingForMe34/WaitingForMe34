@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=0:32CD32,100:008000&height=300&section=header&text=WaitingForMe34&fontSize=75&textAlign=middle&fontColor=white)
+![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=WaitingForMe34%20&textBg=false&fontColor=Black&fontAlignY=50&animation=fadeIn&descAlign=60)
